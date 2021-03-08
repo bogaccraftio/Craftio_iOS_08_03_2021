@@ -1,0 +1,6 @@
+framework module Pods_Craftio {
+  umbrella header "Pods-Craftio-umbrella.h"
+
+  export *
+  module * { export * }
+}
